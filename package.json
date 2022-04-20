@@ -1,4 +1,5 @@
 {
+  "name": "curve-contract",
   "version": "1.0.0",
   "scripts": {
       "preinstall": "npm i -g ganache-cli@6.12.1"
